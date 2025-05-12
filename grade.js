@@ -16,5 +16,5 @@ if(n<60){
 }
 }
 var result;
-result=cj(66);
+result=cj(80);
 console.log(result)
